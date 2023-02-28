@@ -1,0 +1,6 @@
+org\boredkris\utils\AppiumUtils$1.class
+org\boredkris\pageObjects\android\FormPage.class
+org\boredkris\pageObjects\android\CartPage.class
+org\boredkris\utils\AppiumUtils.class
+org\boredkris\utils\AndroidActions.class
+org\boredkris\pageObjects\android\ProductCatalogue.class
